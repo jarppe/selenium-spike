@@ -1,0 +1,6 @@
+/target
+/.lein-*
+/.nrepl-*
+figwheel_server.log
+/.idea
+/*.iml
